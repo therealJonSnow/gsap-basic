@@ -1,0 +1,20 @@
+{
+  "name": "gsap-basic",
+  "version": "0.0.9",
+  "description": "Library of basic GSAP animations",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "GSAP",
+    "GreenSock",
+    "animation"
+  ],
+  "author": "Jonny Snow",
+  "license": "MIT",
+  "dependencies": {
+    "gsap": "^3.6.0"
+  },
+  "type": "module"
+}
